@@ -1,4 +1,0 @@
-lexeme	stripped_lexeme	root	parse	underlying	definition	word_graphemes	where_in_wrapped	grammatical_categories	suffixes	prefixes	copy	copy_indices	copied	copied_indices	h_copy	linfixation_indices	without_linfixation	l_copy_indices
-see’likw	ee’likw	lukwa	s=√lukwa=STA=DIM	see’likw	broken (stick) DIM	['s', 'ee', '’', 'l', 'i', 'kw']	[1, 6]	['DIM', 'STA']	[]	['s']		[]		[]		[]		[]
-q’uli’q’ept	q’uli’q’ep	q’pu	√q’pu=t=DIM=PL=PROG	q’i’q’ept	gathering them DIM	['q’', 'u', 'l', 'i', '’', 'q’', 'e', 'p', 't']	[0, 8]	['PL', 'DIM', 'PROG']	['t']	[]		[]		[]		[2, 4]	q’i’q’ep	[]
-p’utl’ul’ust	p’utl’ul’us	p’etl’	√p’etl’=alus=t=PROG	p’utl’ul’usalust	feeling stitches	['p’', 'u', 'tl’', 'u', 'l’', 'u', 's', 't']	[0, 7]	['PROG']	['alus', 't']	[]		[]		[]		[]		[]
