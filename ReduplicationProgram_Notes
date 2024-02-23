@@ -20,6 +20,3 @@ Notes:
 - make a web-app for individual words. 
 - People only need to enter the lexeme, the program will search the parse dictionary for the parse... if we use the apa dictionary with curly, straight and apa then we can search for the curly lexeme from whatever orthography was inputted
 
-- 
-
-Would be super cool to train a neural net...
